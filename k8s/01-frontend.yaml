@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: TU_USUARIO_DOCKERHUB/sanos-salvos-frontend:latest
+          image: ayanez92/sanos-salvos-frontend:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 80
