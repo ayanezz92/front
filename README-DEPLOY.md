@@ -4,7 +4,7 @@ React + Vite, servido con Nginx.
 
 ## Secrets requeridos en GitHub
 - `DOCKERHUB_USERNAME`, `DOCKERHUB_TOKEN`
-- `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_SESSION_TOKEN`, `AWS_REGION`, `EKS_CLUSTER_NAME`
+- `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_SESSION_TOKEN`,   `AWS_REGION`, `EKS_CLUSTER_NAME`
 
 ## Variable de repo requerida (no secreta)
 Settings → Secrets and variables → Actions → pestaña **Variables**:
